@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Young+Serif&display=swap');
+.img{
+    height: 450px;
+    width: 400px;
+    margin-top: 100px;
+}
+h2{
+    font-family: 'Young Serif', serif;
+}
+p{
+    font-family: 'Young Serif', serif;
+}
+h1{
+    font-family: 'Young Serif', serif;
+}
+.s2{
+   padding-top: 70px;
+   margin-left: 70px;
+}
+.s2 p{
+    padding-top: 15px;
+}
+/* h3{
+    font-family: 'Young Serif', serif;
+} */
+
+
+.bimg1{
+    height: 50px;
+    width: 80px;   
+}
+ button{
+    height: 50px;
+ }
+
+
+button:hover{
+    transform: scale(1.1);
+    
+}
+.bimg2{
+    height:50px;
+    width: 80px;   
+}
+.bimg3{
+    height:50px;
+    width: 80px;   
+}
+.bimg4{
+    height:50px;
+    width: 80px;   
+}
+.bimg5{
+    height:50px;
+    width: 80px;   
+}
+.card-img-top{
+    height: 200px;
+    width: 100px;
+}
+
+@media only screen and (max-width:768px)
+{
+    .img{
+        height: 450px;
+        width: 240px;
+        margin-top: 32px;
+        margin-left: 50px;
+}
+
+h1{
+    font-family: 'Young Serif', serif;
+    padding-bottom: 20px;
+    text-align: center;
+    padding-top: 40px;
+}
+h2{
+    font-family: 'Young Serif', serif;
+    text-align: center;
+}
+p{
+    font-family: 'Young Serif', serif;
+    text-align: center;
+}
+.btn{
+    margin-top: 35px;
+    
+}
+.s2 h2{
+    margin-right:59px;
+}
+.s2 p{
+    margin-right:72px;
+}
+.bimg1{
+    height: 50px;
+    width: 172px; 
+  
+}
+.bimg2{
+    height:50px;
+    width: 172px;   
+}
+.bimg3{
+    height:50px;
+    width: 172px;
+   
+}
+.bimg4{
+    height:50px;
+    width: 172px;  
+}
+   
+.bimg5{
+    height:50px;
+    width: 172px;   
+}
+.s3{
+    margin-top: 0px;
+    margin-right: 60px;
+}
+.microsoft{
+    margin-top: 20px;
+}
+.flipkart{
+   margin-left: 20px;
+}
+.amazon{
+    margin-top: 20px;
+    margin-left: 10px;
+}
+.yahoo{
+    margin-top: 20px;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
